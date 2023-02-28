@@ -1,2 +1,2 @@
 # odin-recipes
-This is First Odin project.
+This is First Odin project. Naaaamean.
